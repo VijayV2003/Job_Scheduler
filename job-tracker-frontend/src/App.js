@@ -47,7 +47,7 @@ function App() {
   return (
     <div className="container">
       <header className="header">
-        <h1>AI Resume Matcher</h1>
+        <h1>AI powered Resume Matcher</h1>
         <p>Match your resume against top job roles and get insights!</p>
       </header>
 
